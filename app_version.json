@@ -1,7 +1,7 @@
 {
-  "versionName": "1.13",
-  "versionCode": 14,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.13/spellwalker.apk",
-  "message": "アップデートがあります。\n20260726\n・アーケインは最遠敵を狙う\n・弾数はLv2/4（初期魔法は2→3→Lv5で4）\n・Lv3/5でクール短縮\n・ダメージは毎Lv×1.5\n・必殺技の溜まり調整\n・ボス出現時の固まり軽減\nアップデートしますか？",
+  "versionName": "1.14",
+  "versionCode": 15,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.14/spellwalker.apk",
+  "message": "アップデートがあります。\n20260727\n・新武器「パイロブラスト」（跳ねて着弾・範囲ダメージ）\n・ファイヤーボールを fireball01/02 の2コマアニメに差し替え\n・バルムンク必殺に char01_cutin カットイン演出\n・武器レベル上限を9に／強化の上がりを緩やかに\n・経験値カーブを調整（レベルアップを少し緩やかに）\n・開始〜プレイ中のカクつきを軽減\nアップデートしますか？",
   "forceUpdate": false
 }
