@@ -1,7 +1,7 @@
 {
-  "versionName": "1.14",
-  "versionCode": 15,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.14/spellwalker.apk",
-  "message": "アップデートがあります。\n20260727\n・新武器「パイロブラスト」（跳ねて着弾・範囲ダメージ）\n・ファイヤーボールを fireball01/02 の2コマアニメに差し替え\n・バルムンク必殺に char01_cutin カットイン演出\n・武器レベル上限を9に／強化の上がりを緩やかに\n・経験値カーブを調整（レベルアップを少し緩やかに）\n・開始〜プレイ中のカクつきを軽減\nアップデートしますか？",
+  "versionName": "1.15",
+  "versionCode": 16,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.15/spellwalker.apk",
+  "message": "アップデートがあります。\n20260728\n・キャラ「ラミィ」追加（ロビー／idle／必殺カットイン）\n・ラミィ必殺「氷嵐」（追従・範囲ダメージ・透過演出）\n・移動時は左右反転のみに変更\n・武器Lv上限を5に調整（威力・弾数・サイズも見直し）\n・ファイヤーボール／フロストボルトサイズ拡大\n・パイロブラストはLvで見た目サイズが成長\n・HUD刷新（ミニマップ廃止→キル／スコア／タイム、所持武器表示）\nアップデートしますか？",
   "forceUpdate": false
 }
