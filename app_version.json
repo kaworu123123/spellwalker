@@ -1,9 +1,9 @@
 {
-  "versionName": "1.17",
-  "versionCode": 18,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.17/spellwalker.apk",
-  "message": "アップデートがあります。\n20260729\n・協力プレイで各キャラ選択が正しく反映\n・参加者も必殺が溜まって使えるように\n・味方必殺時は上部カットイン\n・協力時の所持武器を左ステータスに表示\n・味方のバリア／ノヴァ等の見た目を同期\n・協力時の武器上限を3つに\n・更新チェックの取得先を安定化\nアップデートしますか？",
+  "versionName": "1.18",
+  "versionCode": 19,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.18/spellwalker.apk",
+  "message": "アップデートがあります。\n20260729\n・下の武器一覧が正しく自分の所持武器を表示\n・味方HPの下に味方の所持武器を表示\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-07-29T21:11:30+09:00",
-  "cacheBust": "1785327090"
+  "publishedAt": "2026-07-29T21:30:00+09:00",
+  "cacheBust": "1785328117"
 }
