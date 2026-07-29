@@ -1,9 +1,9 @@
 {
-  "versionName": "1.16",
-  "versionCode": 17,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.16/spellwalker.apk",
-  "message": "アップデートがあります。\n20260729\n・体力回復ドロップを powerup 画像に差し替え\n・新武器「フロストノヴァ」（範囲1ダメ＋凍結、Lvで凍結時間延長）\n・撃破エフェクト（kill01〜03）追加\n・3分ボス撃破ごとに敵出現数を増加\n・ボス接近 WARNING カットイン追加\nアップデートしますか？",
+  "versionName": "1.17",
+  "versionCode": 18,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.17/spellwalker.apk",
+  "message": "アップデートがあります。\n20260729\n・協力プレイで各キャラ選択が正しく反映\n・参加者も必殺が溜まって使えるように\n・味方必殺時は上部カットイン\n・協力時の所持武器を左ステータスに表示\n・味方のバリア／ノヴァ等の見た目を同期\n・協力時の武器上限を3つに\n・更新チェックの取得先を安定化\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-07-29T20:16:00+09:00",
-  "cacheBust": "1785323760"
+  "publishedAt": "2026-07-29T21:11:30+09:00",
+  "cacheBust": "1785327090"
 }
