@@ -1,9 +1,0 @@
-{
-  "versionName": "1.18",
-  "versionCode": 19,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.18/spellwalker.apk",
-  "message": "アップデートがあります。\n20260729\n・下の武器一覧が正しく自分の所持武器を表示\n・味方HPの下に味方の所持武器を表示\nアップデートしますか？",
-  "forceUpdate": false,
-  "publishedAt": "2026-07-29T21:42:00+09:00",
-  "cacheBust": "1785328826"
-}
