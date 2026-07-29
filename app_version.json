@@ -2,8 +2,8 @@
   "versionName": "1.16",
   "versionCode": 17,
   "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.16/spellwalker.apk",
-  "message": "Update available (v1.16).\n20260729\n- powerup heal drop\n- Frost Nova weapon\n- kill effect\n- more enemies after midboss\n- WARNING cut-in\nUpdate now?",
+  "message": "アップデートがあります。\n20260729\n・体力回復ドロップを powerup 画像に差し替え\n・新武器「フロストノヴァ」（範囲1ダメ＋凍結、Lvで凍結時間延長）\n・撃破エフェクト（kill01〜03）追加\n・3分ボス撃破ごとに敵出現数を増加\n・ボス接近 WARNING カットイン追加\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-07-29T20:12:00+09:00",
-  "cacheBust": "1785323520"
+  "publishedAt": "2026-07-29T20:16:00+09:00",
+  "cacheBust": "1785323760"
 }
