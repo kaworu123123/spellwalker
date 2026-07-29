@@ -1,8 +1,8 @@
 {
-  "versionName": "1.15",
-  "versionCode": 16,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.15/spellwalker.apk",
-  "message": "アップデートがあります。\n20260728\n・キャラ「ラミィ」追加（ロビー／idle／必殺カットイン）\n・ラミィ必殺「氷嵐」（追従・範囲ダメージ・透過演出）\n・移動時は左右反転のみに変更\n・武器Lv上限を5に調整（威力・弾数・サイズも見直し）\n・ファイヤーボール／フロストボルトサイズ拡大\n・パイロブラストはLvで見た目サイズが成長\n・HUD刷新（ミニマップ廃止→キル／スコア／タイム、所持武器表示）\nアップデートしますか？",
+  "versionName": "1.16",
+  "versionCode": 17,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.16/spellwalker.apk",
+  "message": "アップデートがあります。\n20260729\n・体力回復ドロップを powerup 画像に差し替え\n・新武器「フロストノヴァ」（範囲1ダメ＋凍結、Lvで凍結時間延長）\n・撃破エフェクト（kill01〜03）追加\n・3分ボス撃破ごとに敵出現数を増加\n・ボス接近 WARNING カットイン追加\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-07-28T13:25:00Z"
+  "publishedAt": "2026-07-29T20:03:00+09:00"
 }
