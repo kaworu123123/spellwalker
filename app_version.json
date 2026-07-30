@@ -1,9 +1,9 @@
 {
-  "versionName": "1.18",
-  "versionCode": 19,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.18/spellwalker.apk",
-  "message": "アップデートがあります。\n20260729\n・下の武器一覧が正しく自分の所持武器を表示\n・味方HPの下に味方の所持武器を表示\nアップデートしますか？",
+  "versionName": "1.19",
+  "versionCode": 20,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.19/spellwalker.apk",
+  "message": "アップデートがあります。\n20260730\n・クリア画面で clear_bgm を再生\n・キャラ必殺クールを統一（75秒）\n・レベルアップをやや易しく\n・下部所持武器を1列表示\n・WARNINGをボス出現まで中央表示\n・アプリアイコン設定\n・ゲーム中のカクつき軽減\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-07-29T21:43:00+09:00",
-  "cacheBust": "1785328860"
+  "publishedAt": "2026-07-30T22:24:46+09:00",
+  "cacheBust": "1785417886"
 }
