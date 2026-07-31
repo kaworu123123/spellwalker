@@ -1,9 +1,9 @@
 {
-  "versionName": "1.20",
-  "versionCode": 21,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.20/spellwalker.apk",
-  "message": "アップデートがあります。\n20260731\n・開始カウントダウン中に重い処理を先読み\n・初回必殺のカクつき軽減\n・ゲーム中のヒッチ対策を強化\nアップデートしますか？",
+  "versionName": "1.21",
+  "versionCode": 22,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.21/spellwalker.apk",
+  "message": "アップデートがあります。\n20260731\n・必殺ボタンの位置・サイズ調整と準備完了時の点滅演出\n・タイトルへ戻るボタンのサイズ修正\n・タイトルのバージョン表示を整理\n・ロビー／HUDボタン周りの見た目改善\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-07-31T07:43:35+09:00",
-  "cacheBust": "1785451415"
+  "publishedAt": "2026-07-31T20:39:26+09:00",
+  "cacheBust": "1785497966"
 }
