@@ -1,9 +1,9 @@
 {
-  "versionName": "1.23",
-  "versionCode": 24,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.23/spellwalker.apk",
-  "message": "アップデートがあります。\n20260801\n・新キャラ「ゼシア」追加\n・ゼシア必殺：所持武器の一時強化（ダメ×2／弾速×2／CD半減）\n・アーケインブラスト：反射仕様・最寄り狙い・サイズ調整\n・武器選択のHP回復アイコンを肉スプライトに\nアップデートしますか？",
+  "versionName": "1.24",
+  "versionCode": 25,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.24/spellwalker.apk",
+  "message": "アップデートがあります。\n20260801\n・協力：参加側にもボスWARNING表示\n・協力：肉（HP回復）を参加者も拾えるように\n・ボス追尾：HP低い方優先／同値はホスト／ホスト死亡時は生存者\n・ボス足元HPバーの位置調整\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-01T18:11:51+09:00",
-  "cacheBust": "1785575511"
+  "publishedAt": "2026-08-01T18:28:37+09:00",
+  "cacheBust": "1785576517"
 }
