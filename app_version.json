@@ -1,9 +1,9 @@
 {
-  "versionName": "1.24",
-  "versionCode": 25,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.24/spellwalker.apk",
-  "message": "アップデートがあります。\n20260801\n・協力：参加側にもボスWARNING表示\n・協力：肉（HP回復）を参加者も拾えるように\n・ボス追尾：HP低い方優先／同値はホスト／ホスト死亡時は生存者\n・ボス足元HPバーの位置調整\nアップデートしますか？",
+  "versionName": "1.25",
+  "versionCode": 26,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.25/spellwalker.apk",
+  "message": "アップデートがあります。\n20260801\n・草原の雑魚をスライム3種に変更\n・ゴブリンを中ボス／ラスボスに変更\n・スライム内部ハイライトが消える透過バグを修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-01T18:28:37+09:00",
-  "cacheBust": "1785576517"
+  "publishedAt": "2026-08-01T18:42:50+09:00",
+  "cacheBust": "1785577370"
 }
