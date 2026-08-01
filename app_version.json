@@ -1,10 +1,9 @@
 {
-  "versionName": "1.22",
-  "versionCode": 23,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.22/spellwalker.apk",
-  "message": "アップデートがあります。\n20260801\n・EXP／必殺バーの見た目調整（グラデーション・透過・高さ）\n・必殺技のクール短縮（1ゲームで使いやすく）\nアップデートしますか？",
+  "versionName": "1.23",
+  "versionCode": 24,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.23/spellwalker.apk",
+  "message": "アップデートがあります。\n20260801\n・新キャラ「ゼシア」追加\n・ゼシア必殺：所持武器の一時強化（ダメ×2／弾速×2／CD半減）\n・アーケインブラスト：反射仕様・最寄り狙い・サイズ調整\n・武器選択のHP回復アイコンを肉スプライトに\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-01T11:56:17+09:00",
-  "cacheBust": "1785552977"
+  "publishedAt": "2026-08-01T18:11:51+09:00",
+  "cacheBust": "1785575511"
 }
-
