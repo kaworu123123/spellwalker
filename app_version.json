@@ -1,9 +1,9 @@
 {
-  "versionName": "1.25",
-  "versionCode": 26,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.25/spellwalker.apk",
-  "message": "アップデートがあります。\n20260801\n・草原の雑魚をスライム3種に変更\n・ゴブリンを中ボス／ラスボスに変更\n・スライム内部ハイライトが消える透過バグを修正\nアップデートしますか？",
+  "versionName": "1.26",
+  "versionCode": 27,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.26/spellwalker.apk",
+  "message": "アップデートがあります。\n20260801\n・ロビーのキャラ説明に名前／メイン武器／必殺技を表示\n・説明枠に武器選択の内枠（select_in）を流用\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-01T18:42:50+09:00",
-  "cacheBust": "1785577370"
+  "publishedAt": "2026-08-01T19:05:28+09:00",
+  "cacheBust": "1785578728"
 }
