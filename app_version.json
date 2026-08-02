@@ -1,9 +1,9 @@
 {
-  "versionName": "1.27",
-  "versionCode": 28,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.27/spellwalker.apk",
-  "message": "アップデートがあります。\n20260802\n・レベルアップUI：外枠一段下げ＋最上段にLVUP表示\n・ランキング：5件分サイズ＋スクロール、ステージ◀▶切替\n・ランキング：武器アイコン／使用キャラ表示\n・ラスボス出現時に雑魚消滅で一騎打ち\nアップデートしますか？",
+  "versionName": "1.28",
+  "versionCode": 29,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.28/spellwalker.apk",
+  "message": "アップデートがあります。\n20260802\n・ボス与ダメ／被ダメで必殺クール短縮\n・マルチ必殺連携（5秒以内で効果共有）\n・蘇生reborn／連携Link演出、WARNING SE\n・ランキングUI改善、ラスボス一騎打ち\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-02T08:13:45+09:00",
-  "cacheBust": "1785626025"
+  "publishedAt": "2026-08-02T09:11:02+09:00",
+  "cacheBust": "1785629462"
 }
