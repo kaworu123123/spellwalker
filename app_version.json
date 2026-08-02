@@ -1,9 +1,9 @@
 {
-  "versionName": "1.28",
-  "versionCode": 29,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.28/spellwalker.apk",
-  "message": "アップデートがあります。\n20260802\n・ボス与ダメ／被ダメで必殺クール短縮\n・マルチ必殺連携（5秒以内で効果共有）\n・蘇生reborn／連携Link演出、WARNING SE\n・ランキングUI改善、ラスボス一騎打ち\nアップデートしますか？",
+  "versionName": "1.29",
+  "versionCode": 30,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.29/spellwalker.apk",
+  "message": "アップデートがあります。\n20260802\n・レベルアップ武器選択を必殺カットインより前面に\n・ランキングは自己ベスト更新時のみ反映（Keep Best）\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-02T09:11:02+09:00",
-  "cacheBust": "1785629462"
+  "publishedAt": "2026-08-02T10:20:00+09:00",
+  "cacheBust": "1785633600"
 }
