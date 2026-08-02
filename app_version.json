@@ -1,9 +1,9 @@
 {
-  "versionName": "1.29",
-  "versionCode": 30,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.29/spellwalker.apk",
-  "message": "アップデートがあります。\n20260802\n・レベルアップ武器選択を必殺カットインより前面に\n・ランキングは自己ベスト更新時のみ反映（Keep Best）\nアップデートしますか？",
+  "versionName": "1.30",
+  "versionCode": 31,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.30/spellwalker.apk",
+  "message": "アップデートがあります。\n20260802\n・クリアランクS/A/Bと立ち絵表示、グラフィック解放\n・マルチ：ボス当たり判定／雑魚再配置／BGM・WARNING同期\n・マルチ敵の近場orランダム追尾、必殺バー満タン点滅\n・リザルトUI／必殺ボタン調整、ゼシアidle透過修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-02T10:20:00+09:00",
-  "cacheBust": "1785633600"
+  "publishedAt": "2026-08-02T19:50:00+09:00",
+  "cacheBust": "1785667800"
 }
