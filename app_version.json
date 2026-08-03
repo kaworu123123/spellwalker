@@ -1,9 +1,9 @@
 {
-  "versionName": "1.33",
-  "versionCode": 34,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.33/spellwalker.apk",
-  "message": "アップデートがあります。\n20260803\n・APK配布を修正（誤った旧APKが載っていた問題）\n・ランキングのスコア表示をフォント画像に対応\n・数字フォントの「8」割り当て修正\nアップデートしますか？",
+  "versionName": "1.34",
+  "versionCode": 35,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.34/spellwalker.apk",
+  "message": "アップデートがあります。\n20260803\n・APK配布を修正（誤った旧APKが載っていた問題）\n・インストール互換を改善\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-03T23:45:00+09:00",
-  "cacheBust": "1785771900"
+  "publishedAt": "2026-08-03T23:50:00+09:00",
+  "cacheBust": "1785772200"
 }
