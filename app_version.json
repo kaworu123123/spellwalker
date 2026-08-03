@@ -1,9 +1,9 @@
 {
-  "versionName": "1.32",
-  "versionCode": 33,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.32/spellwalker.apk",
-  "message": "アップデートがあります。\n20260803\n・初期武器の強化をプレイヤーLv25で武器Lv5到達に調整＋基礎ダメ上方\n・火／氷バランス調整（パイロ弱体、ファイヤーブラスト爆発廃止、鈍化統一など）\n・パッシブ系（会心／イグナイト／ノヴァ／DF／鏡／バリア）を最大Lv3に\n・鈍化中の敵からの接敵ダメージ半減\nアップデートしますか？",
+  "versionName": "1.33",
+  "versionCode": 34,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.33/spellwalker.apk",
+  "message": "アップデートがあります。\n20260803\n・ランキングのスコア表示をフォント画像に対応\n・数字フォントの「8」割り当て修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-03T23:06:00+09:00",
-  "cacheBust": "1785769560"
+  "publishedAt": "2026-08-03T23:30:00+09:00",
+  "cacheBust": "1785771000"
 }
