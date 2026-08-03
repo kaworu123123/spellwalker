@@ -1,9 +1,9 @@
 {
-  "versionName": "1.31",
-  "versionCode": 32,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.31/spellwalker.apk",
-  "message": "アップデートがあります。\n20260802\n・新武器：アーケインミサイル／クリティカルマス／イグナイト／ブリザード／ディープフリーズ\n・HUD：キル・スコア・タイムのフォント表示とサイズ調整\n・武器所持上限・キャラパッシブ調整\nアップデートしますか？",
+  "versionName": "1.32",
+  "versionCode": 33,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.32/spellwalker.apk",
+  "message": "アップデートがあります。\n20260803\n・初期武器の強化をプレイヤーLv25で武器Lv5到達に調整＋基礎ダメ上方\n・火／氷バランス調整（パイロ弱体、ファイヤーブラスト爆発廃止、鈍化統一など）\n・パッシブ系（会心／イグナイト／ノヴァ／DF／鏡／バリア）を最大Lv3に\n・鈍化中の敵からの接敵ダメージ半減\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-02T23:05:00+09:00",
-  "cacheBust": "1785679500"
+  "publishedAt": "2026-08-03T23:06:00+09:00",
+  "cacheBust": "1785769560"
 }
