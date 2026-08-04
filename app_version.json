@@ -1,9 +1,9 @@
 {
-  "versionName": "1.36",
-  "versionCode": 37,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.36/spellwalker.apk",
-  "message": "アップデートがあります。\n20260804\n・SE（属性ヒット／被弾／撃破）追加・差し替え\n・UI数字フォント・カンマ表示を改善\n・レベルアップ時にHP回復\n・パイロブラスト／アーケインバラッジ／フローズンオーブが高HP敵を優先\n・フロストボルト強化（ダメ10・氷爆風1.5倍）\nアップデートしますか？",
+  "versionName": "1.37",
+  "versionCode": 38,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.37/spellwalker.apk",
+  "message": "アップデートがあります。\n20260805\n・タイトルにベスト順位（ランキング下段と同じ表示）を追加\n・ランキング／タイトルから初期武器表示を非表示\n・主武器3種のクールタイム短縮\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-04T20:28:00+09:00",
-  "cacheBust": "1785845280"
+  "publishedAt": "2026-08-05T06:38:00+09:00",
+  "cacheBust": "1785883080"
 }
