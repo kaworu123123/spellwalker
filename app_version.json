@@ -1,9 +1,9 @@
 {
-  "versionName": "1.35",
-  "versionCode": 36,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.35/spellwalker.apk",
-  "message": "アップデートがあります。\n20260804\n・ファイヤーブラストが全キャラの初期武器着弾で発動するよう修正\nアップデートしますか？",
+  "versionName": "1.36",
+  "versionCode": 37,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.36/spellwalker.apk",
+  "message": "アップデートがあります。\n20260804\n・SE（属性ヒット／被弾／撃破）追加・差し替え\n・UI数字フォント・カンマ表示を改善\n・レベルアップ時にHP回復\n・パイロブラスト／アーケインバラッジ／フローズンオーブが高HP敵を優先\n・フロストボルト強化（ダメ10・氷爆風1.5倍）\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-04T07:30:00+09:00",
-  "cacheBust": "1785798600"
+  "publishedAt": "2026-08-04T20:28:00+09:00",
+  "cacheBust": "1785845280"
 }
