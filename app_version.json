@@ -1,9 +1,9 @@
 {
-  "versionName": "1.37",
-  "versionCode": 38,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.37/spellwalker.apk",
-  "message": "アップデートがあります。\n20260805\n・タイトルにベスト順位（ランキング下段と同じ表示）を追加\n・ランキング／タイトルから初期武器表示を非表示\n・主武器3種のクールタイム短縮\nアップデートしますか？",
+  "versionName": "1.38",
+  "versionCode": 39,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.38/spellwalker.apk",
+  "message": "アップデートがあります。\n20260805\n・遺跡ステージ追加（背景・障害物・敵・BGM）\n・密林敵差し替え／難易度調整\n・ボスBGMをステージ別に固定\n・ランキングに遺跡ボード追加\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-05T06:38:00+09:00",
-  "cacheBust": "1785883080"
+  "publishedAt": "2026-08-05T22:25:00+09:00",
+  "cacheBust": "1785893100"
 }
