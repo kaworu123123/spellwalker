@@ -1,9 +1,9 @@
 {
-  "versionName": "1.40",
-  "versionCode": 41,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.40/spellwalker.apk",
-  "message": "アップデートがあります。\n20260806\n・協力時の味方攻撃・エフェクト同期\n・味方キャラの左右向き同期\n・LvUp中のWARNING／必殺SE停止\n・属性共鳴時フレイア上位カットイン\nアップデートしますか？",
+  "versionName": "1.41",
+  "versionCode": 42,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.41/spellwalker.apk",
+  "message": "アップデートがあります。\n20260806\n・フレイア待機アニメ差し替え（25コマ）\n・待機アニメの滑らかさ改善\n・スプライト取り込み画質の調整\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-06T13:12:48+09:00",
-  "cacheBust": "1785989569"
+  "publishedAt": "2026-08-06T23:37:34+09:00",
+  "cacheBust": "1786027054"
 }
