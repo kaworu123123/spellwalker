@@ -1,9 +1,9 @@
 {
-  "message": "アップデートがあります。\n20260806\n・Android戻るキー（ソロ一時停止確認／協力退出確認）\n・爆風エフェクトサイズ調整\n・パイロブラストダメージ2倍\n・FireBlast／Frozen Orb／Ignite 調整\nアップデートしますか？",
-  "publishedAt": "2026-08-06T10:04:34+09:00",
+  "versionName": "1.40",
+  "versionCode": 41,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.40/spellwalker.apk",
+  "message": "アップデートがあります。\n20260806\n・協力時の味方攻撃・エフェクト同期\n・味方キャラの左右向き同期\n・LvUp中のWARNING／必殺SE停止\n・属性共鳴時フレイア上位カットイン\nアップデートしますか？",
   "forceUpdate": false,
-  "cacheBust": "1785978275",
-  "versionName": "1.39",
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.39/spellwalker.apk",
-  "versionCode": 40
+  "publishedAt": "2026-08-06T13:12:48+09:00",
+  "cacheBust": "1785989569"
 }
