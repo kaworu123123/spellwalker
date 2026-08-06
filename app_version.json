@@ -1,9 +1,9 @@
 {
-  "versionName": "1.38",
-  "versionCode": 39,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.38/spellwalker.apk",
-  "message": "アップデートがあります。\n20260805\n・遺跡ステージ追加（背景・障害物・敵・BGM）\n・密林敵差し替え／難易度調整\n・ボスBGMをステージ別に固定\n・ランキングに遺跡ボード追加\nアップデートしますか？",
+  "message": "アップデートがあります。\n20260806\n・Android戻るキー（ソロ一時停止確認／協力退出確認）\n・爆風エフェクトサイズ調整\n・パイロブラストダメージ2倍\n・FireBlast／Frozen Orb／Ignite 調整\nアップデートしますか？",
+  "publishedAt": "2026-08-06T10:04:34+09:00",
   "forceUpdate": false,
-  "publishedAt": "2026-08-05T22:25:00+09:00",
-  "cacheBust": "1785893100"
+  "cacheBust": "1785978275",
+  "versionName": "1.39",
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.39/spellwalker.apk",
+  "versionCode": 40
 }
