@@ -4,6 +4,6 @@
   "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.42/spellwalker.apk",
   "message": "アップデートがあります。\n20260807\n・キャラ所持スキル追加（フレイア／ユフィナ／ゼシア 各8）\n・ロビーで最大3スキル装備\n・スキルアイコン対応\n・クリア時のスキル獲得表示（アイコン付き）\n・ランキングに装備スキルを表示\n・リザルト画面のレイアウト調整\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-07T11:25:52+09:00",
-  "cacheBust": "1786069552"
+  "publishedAt": "2026-08-07T11:42:05+09:00",
+  "cacheBust": "1786070525"
 }
