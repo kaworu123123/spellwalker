@@ -1,9 +1,9 @@
 {
-  "versionName": "1.42",
-  "versionCode": 43,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.42/spellwalker.apk",
-  "message": "アップデートがあります。\n20260807\n・キャラ所持スキル追加（フレイア／ユフィナ／ゼシア 各8）\n・ロビーで最大3スキル装備\n・スキルアイコン対応\n・クリア時のスキル獲得表示（アイコン付き）\n・ランキングに装備スキルを表示\n・リザルト画面のレイアウト調整\nアップデートしますか？",
+  "versionName": "1.43",
+  "versionCode": 44,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.43/spellwalker.apk",
+  "message": "アップデートがあります。\n20260808\n・ロビー：密林／遺跡プレビューにオブジェクト表示\n・ロビーレイアウト調整（ステージ名・説明枠・左右ボタン）\n・フローズンオーブに連番エフェクト（フロストボルトは従来見た目）\n・オーブアニメのずれ修正\n・リザルト下段：投稿文言削除、スコア／タイム／キルを大きく（カンマ付き）\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-07T11:42:05+09:00",
-  "cacheBust": "1786070525"
+  "publishedAt": "2026-08-08T11:44:00+09:00",
+  "cacheBust": "1786155840"
 }
