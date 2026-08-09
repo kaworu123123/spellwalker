@@ -1,9 +1,9 @@
 {
-  "versionName": "1.44",
-  "versionCode": 45,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.44/spellwalker.apk",
-  "message": "アップデートがあります。\n20260809\n・アルカナブラスト：連番エフェクト（飛翔＋着弾）追加\n・アルカナバラッジ／ミサイルにも同エフェクト（バラッジは大きめ）\n・包囲硬タンク：enemy04表示、赤オーラ削除、ぼったち崩し向けに耐久調整\n・ヒドラ画像を差し替え\nアップデートしますか？",
+  "versionName": "1.45",
+  "versionCode": 46,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.45/spellwalker.apk",
+  "message": "アップデートがあります。\n20260809\n・ミラーイメージ：最大Lv5化、持続・連射・クール調整\n・フローズンオーブ：飛距離短縮、本体無敵化、序盤は同時1発、Lv4+で2発\n・フロストボルト：見た目を小型オーブに変更\n・包囲硬タンク：耐久強化\n・3キャラスキルバランス見直し\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-09T09:05:00+09:00",
-  "cacheBust": "1754693100"
+  "publishedAt": "2026-08-09T14:35:00+09:00",
+  "cacheBust": "1754712900"
 }
