@@ -1,9 +1,9 @@
 {
-  "versionName": "1.45",
-  "versionCode": 46,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.45/spellwalker.apk",
-  "message": "アップデートがあります。\n20260809\n・ミラーイメージ：最大Lv5化、持続・連射・クール調整\n・フローズンオーブ：飛距離短縮、本体無敵化、序盤は同時1発、Lv4+で2発\n・フロストボルト：見た目を小型オーブに変更\n・包囲硬タンク：耐久強化\n・3キャラスキルバランス見直し\nアップデートしますか？",
+  "versionName": "1.46",
+  "versionCode": 47,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.46/spellwalker.apk",
+  "message": "アップデートがあります。\n20260810\n・モード選択画面：イラスト＋ボタンのセット表示に刷新\n・モード選択イラストの透過処理を改善\n・ランキングイラストを差し替え\n・モード選択イラストの表示サイズを調整\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-09T14:38:30+09:00",
-  "cacheBust": "1754713110"
+  "publishedAt": "2026-08-10T09:00:00+09:00",
+  "cacheBust": "1754781600"
 }
