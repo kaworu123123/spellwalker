@@ -1,9 +1,9 @@
 {
-  "versionName": "1.46",
-  "versionCode": 47,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.46/spellwalker.apk",
-  "message": "アップデートがあります。\n20260810\n・モード選択画面：イラスト＋ボタンのセット表示に刷新\n・モード選択イラストの透過処理を改善\n・ランキングイラストを差し替え\n・モード選択イラストの表示サイズを調整\nアップデートしますか？",
+  "versionName": "1.47",
+  "versionCode": 48,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.47/spellwalker.apk",
+  "message": "アップデートがあります。\n20260814\n・プレイヤー移動速度を半分に調整\n・バリア3種：チャージ回復10秒、保持中の各種効果を調整\n・モルテンアーマー：バリア中の全攻撃ダメージUP\n・アイスバリア：バリア中の武器クール短縮\n・プリスマティックバリア：得意武器2発同時\n・フローズンオーブ／ヒドラ／ミラーイメージ：同時上限撤廃\n・ファイヤーボール等：ボレー制に調整\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-10T09:00:00+09:00",
-  "cacheBust": "1754781600"
+  "publishedAt": "2026-08-14T10:06:00+09:00",
+  "cacheBust": "1755131160"
 }
