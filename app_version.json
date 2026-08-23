@@ -1,9 +1,9 @@
 {
-  "versionName": "1.52",
-  "versionCode": 53,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.52/spellwalker.apk",
-  "message": "アップデートがあります。\n20260823\n・ランキングプレートUIを刷新（順位・名前・スコア・アイコン配置）\n・ランキング一覧の表示を拡大\n・ロビーのスタートボタン重なりを修正\n・フレイアのランキング立ち絵をロビー画像に統一\nアップデートしますか？",
+  "versionName": "1.53",
+  "versionCode": 54,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.53/spellwalker.apk",
+  "message": "アップデートがあります。\n20260823\n・ランキングプレートにランクイン日付を表示\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-23T22:06:00+09:00",
-  "cacheBust": "1755962760"
+  "publishedAt": "2026-08-23T23:45:00+09:00",
+  "cacheBust": "1755967500"
 }
