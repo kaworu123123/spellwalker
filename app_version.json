@@ -1,9 +1,9 @@
 {
-  "versionName": "1.50",
-  "versionCode": 51,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.50/spellwalker.apk",
-  "message": "アップデートがあります。\n20260823\n・協力プレイでボスを人数分同時出現、ボス撃破タイムボーナス追加\n・スコーチ着弾演出改善、ファイヤーボール／フロストボルト弾サイズ調整\n・他属性パッシブCD短縮を廃止（自属性のみ短縮）\n・メニュー系ボタンSE追加、ゼシア必殺の弾速強化除外\nアップデートしますか？",
+  "versionName": "1.51",
+  "versionCode": 52,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.51/spellwalker.apk",
+  "message": "アップデートがあります。\n20260823\n・協力プレイのボス出現・出現増加メッセージを全員に同期\n・複数ボス時のHPバー／方向ロケータを個別表示\n・レベルアップ選択中のボス撃破でもスコアを記録\n・アイスコメットのアイコンを氷属性用に修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-23T11:35:00+09:00",
-  "cacheBust": "1755916500"
+  "publishedAt": "2026-08-23T15:54:00+09:00",
+  "cacheBust": "1755932040"
 }
