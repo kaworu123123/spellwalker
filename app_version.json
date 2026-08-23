@@ -1,9 +1,9 @@
 {
-  "versionName": "1.51",
-  "versionCode": 52,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.51/spellwalker.apk",
-  "message": "アップデートがあります。\n20260823\n・協力プレイのボス出現・出現増加メッセージを全員に同期\n・複数ボス時のHPバー／方向ロケータを個別表示\n・レベルアップ選択中のボス撃破でもスコアを記録\n・アイスコメットのアイコンを氷属性用に修正\nアップデートしますか？",
+  "versionName": "1.52",
+  "versionCode": 53,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.52/spellwalker.apk",
+  "message": "アップデートがあります。\n20260823\n・ランキングプレートUIを刷新（順位・名前・スコア・アイコン配置）\n・ランキング一覧の表示を拡大\n・ロビーのスタートボタン重なりを修正\n・フレイアのランキング立ち絵をロビー画像に統一\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-23T15:54:00+09:00",
-  "cacheBust": "1755932040"
+  "publishedAt": "2026-08-23T22:06:00+09:00",
+  "cacheBust": "1755962760"
 }
