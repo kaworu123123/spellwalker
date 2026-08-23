@@ -1,9 +1,9 @@
 {
-  "versionName": "1.49",
-  "versionCode": 50,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.49/spellwalker.apk",
-  "message": "アップデートがあります。\n20260814\n・3キャラのスコアバランス調整（どのキャラでも上を狙えるよう調整）\n・フロストボルト爆風強化、アルカナブラスト連射改善\n・他属性武器のパッシブをやや短縮（0.72倍）\n・秘術励起・アルカナバラッジの過剰スコアを抑制、氷嵐を強化\nアップデートしますか？",
+  "versionName": "1.50",
+  "versionCode": 51,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.50/spellwalker.apk",
+  "message": "アップデートがあります。\n20260823\n・協力プレイでボスを人数分同時出現、ボス撃破タイムボーナス追加\n・スコーチ着弾演出改善、ファイヤーボール／フロストボルト弾サイズ調整\n・他属性パッシブCD短縮を廃止（自属性のみ短縮）\n・メニュー系ボタンSE追加、ゼシア必殺の弾速強化除外\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-14T20:58:00+09:00",
-  "cacheBust": "1755172680"
+  "publishedAt": "2026-08-23T11:35:00+09:00",
+  "cacheBust": "1755916500"
 }
