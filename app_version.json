@@ -1,9 +1,9 @@
 {
-  "versionName": "1.53",
-  "versionCode": 54,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.53/spellwalker.apk",
-  "message": "アップデートがあります。\n20260823\n・ランキングプレートにランクイン日付を表示\nアップデートしますか？",
+  "versionName": "1.54",
+  "versionCode": 55,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.54/spellwalker.apk",
+  "message": "アップデートがあります。\n20260824\n・ランキング一覧で自分の行を枠で強調表示\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-23T23:45:00+09:00",
-  "cacheBust": "1755967500"
+  "publishedAt": "2026-08-24T16:32:00+09:00",
+  "cacheBust": "1756027920"
 }
