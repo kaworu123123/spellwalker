@@ -1,9 +1,9 @@
 {
-  "versionName": "1.54",
-  "versionCode": 55,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.54/spellwalker.apk",
-  "message": "アップデートがあります。\n20260824\n・ランキング一覧で自分の行を枠で強調表示\nアップデートしますか？",
+  "versionName": "1.55",
+  "versionCode": 56,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.55/spellwalker.apk",
+  "message": "アップデートがあります。\n20260826\n・メニュー再配置（任務・チャレンジ→モードセレクト、図鑑→グラフィック）\n・ショップ：称号の外し、再抽選チケットはソロのみ、磁石チケット削除\n・初期キャラはフレイアのみ、ユフィナ・ゼシアはショップで永続解放\n・レベルアップ武器は解放キャラの属性のみ出現\n・ランキング一覧を横幅いっぱい表示、下部の自分の順位を削除\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-24T16:32:00+09:00",
-  "cacheBust": "1756027920"
+  "publishedAt": "2026-08-26T14:21:00+09:00",
+  "cacheBust": "1756188060"
 }
