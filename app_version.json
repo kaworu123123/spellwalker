@@ -1,9 +1,9 @@
 {
-  "versionName": "1.56",
-  "versionCode": 57,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.56/spellwalker.apk",
-  "message": "アップデートがあります。\n20260827\n・チャレンジモード・難易度選択を削除（常にノーマル）\n・モードセレクトUIを刷新（ui.pngベースの枠ラベルボタン）\n・ゲーム外の各シーン・パネルのボタンを同スタイルに統一\n・ロビー上部の戻る・ランクボタンを画面サイズに合わせて小型化\nアップデートしますか？",
+  "versionName": "1.57",
+  "versionCode": 58,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.57/spellwalker.apk",
+  "message": "アップデートがあります。\n20260827\n・氷魔法：鈍化中の敵へ再命中でダメージ2倍\n・4面「焦土」ステージ追加（遺跡クリアで解放）\n・各面の包囲タンク見た目をステージ別に差し替え\n・焦土の背景・障害物を追加\n・焦土ランキング（single_stage04 / coop_stage04）対応\n・協力プレイにフレンドタブを追加\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-27T16:18:00+09:00",
-  "cacheBust": "1756280280"
+  "publishedAt": "2026-08-27T23:21:00+09:00",
+  "cacheBust": "1756286460"
 }
