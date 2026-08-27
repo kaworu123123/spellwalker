@@ -4,6 +4,6 @@
   "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.56/spellwalker.apk",
   "message": "アップデートがあります。\n20260827\n・チャレンジモード・難易度選択を削除（常にノーマル）\n・モードセレクトUIを刷新（ui.pngベースの枠ラベルボタン）\n・ゲーム外の各シーン・パネルのボタンを同スタイルに統一\n・ロビー上部の戻る・ランクボタンを画面サイズに合わせて小型化\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-27T14:00:00+09:00",
-  "cacheBust": "1756272000"
+  "publishedAt": "2026-08-27T16:18:00+09:00",
+  "cacheBust": "1756280280"
 }
