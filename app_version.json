@@ -1,9 +1,9 @@
 {
-  "versionName": "1.58",
-  "versionCode": 59,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.58/spellwalker.apk",
-  "message": "アップデートがあります。\n20260828\n・フレイア／ユフィナ／ゼシアのゲーム中キャラアニメを差し替え（front_idle_000）\nアップデートしますか？",
+  "versionName": "1.59",
+  "versionCode": 60,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.59/spellwalker.apk",
+  "message": "アップデートがあります。\n20260828\n・協力プレイ：ホスト終了時に「親のゲームが終了しました」表示\n・協力プレイ：最大参加人数を3人に拡張\n・協力プレイ：ザコ敵の画面外リサイクルを全員基準に修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-28T10:31:00+09:00",
-  "cacheBust": "1756347060"
+  "publishedAt": "2026-08-28T21:20:00+09:00",
+  "cacheBust": "1756386000"
 }
