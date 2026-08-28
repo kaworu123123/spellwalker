@@ -1,9 +1,9 @@
 {
-  "versionName": "1.59",
-  "versionCode": 60,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.59/spellwalker.apk",
-  "message": "アップデートがあります。\n20260828\n・協力プレイ：ホスト終了時に「親のゲームが終了しました」表示\n・協力プレイ：最大参加人数を3人に拡張\n・協力プレイ：ザコ敵の画面外リサイクルを全員基準に修正\nアップデートしますか？",
+  "versionName": "1.60",
+  "versionCode": 61,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.60/spellwalker.apk",
+  "message": "アップデートがあります。\n20260828\n・協力プレイ：レベルアップ速度の調整、武器枠満杯時は選択画面をスキップ\n・協力プレイ：味方と同じ武器が取れないように変更\n・協力プレイ：味方の取得武器をステータス欄に表示\n・プレイヤー足元に影を追加\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-28T21:20:00+09:00",
-  "cacheBust": "1756386000"
+  "publishedAt": "2026-08-28T21:52:00+09:00",
+  "cacheBust": "1756387920"
 }
