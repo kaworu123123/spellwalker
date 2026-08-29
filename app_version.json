@@ -1,9 +1,9 @@
 {
-  "versionName": "1.60",
-  "versionCode": 61,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.60/spellwalker.apk",
-  "message": "アップデートがあります。\n20260828\n・協力プレイ：レベルアップ速度の調整、武器枠満杯時は選択画面をスキップ\n・協力プレイ：味方と同じ武器が取れないように変更\n・協力プレイ：味方の取得武器をステータス欄に表示\n・プレイヤー足元に影を追加\nアップデートしますか？",
+  "versionName": "1.61",
+  "versionCode": 62,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.61/spellwalker.apk",
+  "message": "アップデートがあります。\n20260829\n・レベルアップ速度を調整（序盤は上がりやすく、後半は抑える）\n・武器枠満杯でも未MAX武器を強化できるよう修正\n・リザルトで獲得内容をタップ表示（ランキング入りも吹き出し表示）\n・経験値バー・ボス撃破時のレベルアップ挙動を改善\n・序盤の敵出現を抑制\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-28T21:52:00+09:00",
-  "cacheBust": "1756387920"
+  "publishedAt": "2026-08-29T11:55:00+09:00",
+  "cacheBust": "1756438500"
 }
