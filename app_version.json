@@ -1,9 +1,9 @@
 {
-  "versionName": "1.63",
-  "versionCode": 64,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.63/spellwalker.apk",
-  "message": "アップデートがあります。\n20260830\n・UGS Economy 連携（魂片のクラウド保存）\n・UGS Remote Config 連携（ゲームバランスのリモート調整）\n・ヴァネッサ闇武器・キャラスキル・必殺「蝕月」の調整\n・闇/秘術の UI 色分け・武器バランス調整\nアップデートしますか？",
+  "versionName": "1.64",
+  "versionCode": 65,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.64/spellwalker.apk",
+  "message": "アップデートがあります。\n20260831\n・マルチロビーUIを統合（クイック参加・パーティ表示）\n・部屋メンバーのキャラ選択をリアルタイム同期\n・マルチ3人プレイのロビー・下部UIを整理\n・各種不具合の修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-30T23:05:00+09:00",
-  "cacheBust": "1788050700"
+  "publishedAt": "2026-08-31T00:30:00+09:00",
+  "cacheBust": "1788136200"
 }
