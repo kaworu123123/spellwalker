@@ -1,9 +1,9 @@
 {
-  "versionName": "1.67",
-  "versionCode": 68,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.67/spellwalker.apk",
-  "message": "アップデートがあります。\n20260831\n・マルチで味方の武器演出を同期（ヒドラ等）\n・マルチ武器の同時取得競合を修正\n・マルチ全員ダウン時のゲーム終了不具合を修正\n・マルチでダウン中は deadicon 表示、蘇生で復帰\nアップデートしますか？",
+  "versionName": "1.68",
+  "versionCode": 69,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.68/spellwalker.apk",
+  "message": "アップデートがあります。\n20260831\n・マルチ安定化（武器取得・全滅判定・切断時掃除）\n・Android戻るボタンでパネルを先に閉じる\n・味方武器HUDの即時更新・切断メッセージ改善\n・ショップ購入エラー表示・オフライン時HUD\n・ボスWARNINGの重複・残留を修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-31T14:55:00+09:00",
-  "cacheBust": "1788216900"
+  "publishedAt": "2026-08-31T16:05:00+09:00",
+  "cacheBust": "1788223500"
 }
