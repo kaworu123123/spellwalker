@@ -1,9 +1,9 @@
 {
-  "versionName": "1.66",
-  "versionCode": 67,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.66/spellwalker.apk",
-  "message": "アップデートがあります。\n20260831\n・ロビー下部に選択ステージの自己順位（シングル）を表示\n・スキル装備画面のスクロールヒントがタップを妨げないよう修正\n・マルチランキングのキャラ名・プレイヤー名・スキル表示を改善（最大3人分）\nアップデートしますか？",
+  "versionName": "1.67",
+  "versionCode": 68,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.67/spellwalker.apk",
+  "message": "アップデートがあります。\n20260831\n・マルチで味方の武器演出を同期（ヒドラ等）\n・マルチ武器の同時取得競合を修正\n・マルチ全員ダウン時のゲーム終了不具合を修正\n・マルチでダウン中は deadicon 表示、蘇生で復帰\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-31T14:30:00+09:00",
-  "cacheBust": "1788215400"
+  "publishedAt": "2026-08-31T14:55:00+09:00",
+  "cacheBust": "1788216900"
 }
