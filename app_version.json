@@ -1,9 +1,9 @@
 {
-  "versionName": "1.64",
-  "versionCode": 65,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.64/spellwalker.apk",
-  "message": "アップデートがあります。\n20260831\n・マルチロビーUIを統合（クイック参加・パーティ表示）\n・部屋メンバーのキャラ選択をリアルタイム同期\n・マルチ3人プレイのロビー・下部UIを整理\n・各種不具合の修正\nアップデートしますか？",
+  "versionName": "1.65",
+  "versionCode": 66,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.65/spellwalker.apk",
+  "message": "アップデートがあります。\n20260831\n・全武器にヒット感を追加（非致死時は属性色で点滅・リップル）\n・ヴォイドランス／グレイヴウェーブの多段ヒット着弾演出\n・起動時のUGS認証競合警告を修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-31T00:30:00+09:00",
-  "cacheBust": "1788136200"
+  "publishedAt": "2026-08-31T10:14:00+09:00",
+  "cacheBust": "1788200040"
 }
