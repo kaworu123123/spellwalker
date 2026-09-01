@@ -1,9 +1,9 @@
 {
-  "versionName": "1.69",
-  "versionCode": 70,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.69/spellwalker.apk",
-  "message": "アップデートがあります。\n20260831\n・マルチ全員同期の開始カウントダウン\n・クライアントが固まる不具合を修正（開始後・レベルアップ待機）\nアップデートしますか？",
+  "versionName": "1.70",
+  "versionCode": 71,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.70/spellwalker.apk",
+  "message": "アップデートがあります。\n20260901\n・闇魔法「レイブンクロー」「レイブンヴォイス」追加\n・レベルアップ時のエフェクト表示\n・魔法選択スキップ・魂片獲得量調整など\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-08-31T16:38:00+09:00",
-  "cacheBust": "1788229080"
+  "publishedAt": "2026-09-01T22:10:00+09:00",
+  "cacheBust": "1788270600"
 }
