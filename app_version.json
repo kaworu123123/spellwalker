@@ -1,9 +1,9 @@
 {
-  "versionName": "1.70",
-  "versionCode": 71,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.70/spellwalker.apk",
-  "message": "アップデートがあります。\n20260901\n・闇魔法「レイブンクロー」「レイブンヴォイス」追加\n・レベルアップ時のエフェクト表示\n・魔法選択スキップ・魂片獲得量調整など\nアップデートしますか？",
+  "versionName": "1.71",
+  "versionCode": 72,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.71/spellwalker.apk",
+  "message": "アップデートがあります。\n20260905\n・秘魔法「アルカナオーブ」追加（旧バリアを刷新）\n・火魔法「ファイヤーウォール」追加\n・アルカナオーブのボス当たり判定・命中演出を改善\n・プレイ終了時の Analytics エラーを修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-09-01T22:10:00+09:00",
-  "cacheBust": "1788270600"
+  "publishedAt": "2026-09-05T16:25:00+09:00",
+  "cacheBust": "1788593100"
 }
