@@ -1,9 +1,9 @@
 {
-  "versionName": "1.73",
-  "versionCode": 74,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.73/spellwalker.apk",
-  "message": "アップデートがあります。\n20260906\n・全魔法のレベルアップ上限を最大Lv5に統一\n・ブレイジングスピードがLv3で止まる問題を修正\nアップデートしますか？",
+  "versionName": "1.74",
+  "versionCode": 75,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.74/spellwalker.apk",
+  "message": "アップデートがあります。\n20260906\n・Play Store 向けビルド分岐を追加（AAB 対応）\n・Play Store 経由インストール時はアプリ内 APK 更新を無効化\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-09-06T12:25:00+09:00",
-  "cacheBust": "1788692700"
+  "publishedAt": "2026-09-06T20:15:00+09:00",
+  "cacheBust": "1788725594"
 }
