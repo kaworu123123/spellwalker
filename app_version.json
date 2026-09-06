@@ -1,9 +1,9 @@
 {
-  "versionName": "1.72",
-  "versionCode": 73,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.72/spellwalker.apk",
-  "message": "アップデートがあります。\n20260906\n・各キャラクターのスキルを武器刷新に合わせて再調整\n・レイブンクローの見た目を拡大\n・ヴォイドランスのビームを太く、レイ・オブ・フロストを細く調整\n・ゲーム中断確認ダイアログのボタン配置を修正\nアップデートしますか？",
+  "versionName": "1.73",
+  "versionCode": 74,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.73/spellwalker.apk",
+  "message": "アップデートがあります。\n20260906\n・全魔法のレベルアップ上限を最大Lv5に統一\n・ブレイジングスピードがLv3で止まる問題を修正\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-09-06T00:30:00+09:00",
-  "cacheBust": "1788649800"
+  "publishedAt": "2026-09-06T12:25:00+09:00",
+  "cacheBust": "1788692700"
 }
