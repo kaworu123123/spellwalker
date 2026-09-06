@@ -1,9 +1,9 @@
 {
-  "versionName": "1.74",
-  "versionCode": 75,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.74/spellwalker.apk",
-  "message": "アップデートがあります。\n20260906\n・Play Store 向けビルド分岐を追加（AAB 対応）\n・Play Store 経由インストール時はアプリ内 APK 更新を無効化\nアップデートしますか？",
+  "versionName": "1.75",
+  "versionCode": 76,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.75/spellwalker.apk",
+  "message": "アップデートがあります。\n20260906\n・Play Store 向け AAB ビルドの再提出用バージョン更新\nアップデートしますか？",
   "forceUpdate": false,
-  "publishedAt": "2026-09-06T20:15:00+09:00",
-  "cacheBust": "1788725594"
+  "publishedAt": "2026-09-06T20:20:00+09:00",
+  "cacheBust": "1788725945"
 }
