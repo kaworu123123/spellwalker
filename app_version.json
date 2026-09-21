@@ -1,10 +1,10 @@
 {
-  "versionName": "1.86",
-  "versionCode": 87,
+  "versionName": "1.87",
+  "versionCode": 88,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20260919\n・Google Play 公開用 v1.86\n・Play 向け更新通知・UI改善・協力プレイ安定化\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20260921\n・Google Play 公開用 v1.87\n・Play アップデート完了後の自動適用・通知の改善\n・魂片表示の整理（ショップ・任務）\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-09-19T21:30:00+09:00",
-  "cacheBust": "1789821000"
+  "publishedAt": "2026-09-21T21:45:00+09:00",
+  "cacheBust": "1789994700"
 }
