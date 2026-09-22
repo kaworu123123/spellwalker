@@ -1,10 +1,10 @@
 {
-  "versionName": "1.87",
-  "versionCode": 88,
+  "versionName": "1.88",
+  "versionCode": 89,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20260921\n・Google Play 公開用 v1.87\n・Play アップデート完了後の自動適用・通知の改善\n・魂片表示の整理（ショップ・任務）\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20260922\n・Google Play 公開用 v1.88\n・4キャラの必殺・スコアバランス調整\n・必殺中の足元表示・ランキング表示改善\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-09-21T21:45:00+09:00",
-  "cacheBust": "1789994700"
+  "publishedAt": "2026-09-22T13:40:00+09:00",
+  "cacheBust": "1781005200"
 }
