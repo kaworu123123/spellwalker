@@ -1,10 +1,10 @@
 {
-  "versionName": "1.90",
-  "versionCode": 91,
+  "versionName": "1.91",
+  "versionCode": 92,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20260923\n・Google Play 公開用 v1.90\n・弾の当たり判定を見た目に合わせて調整\n・アルカナオーブの判定を発光サイズに合わせて縮小\n・ヒットエフェクトを敵側の接触点に表示\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20260923\n・Google Play 公開用 v1.91\n・ユフィナ・ゼシア・ヴァネッサの底上げ（フレイア据置）\n・当たり判定・ヒット演出の調整\n・アプリサイズ削減の取り組み\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-09-23T10:30:00+09:00",
-  "cacheBust": "1781115000"
+  "publishedAt": "2026-09-23T21:30:00+09:00",
+  "cacheBust": "1781154600"
 }
