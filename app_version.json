@@ -1,10 +1,10 @@
 {
-  "versionName": "1.89",
-  "versionCode": 90,
+  "versionName": "1.90",
+  "versionCode": 91,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20260922\n・Google Play 公開用 v1.89\n・ランキング画面の見た目刷新\n・自分の順位行に演出アニメーション\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20260923\n・Google Play 公開用 v1.90\n・弾の当たり判定を見た目に合わせて調整\n・アルカナオーブの判定を発光サイズに合わせて縮小\n・ヒットエフェクトを敵側の接触点に表示\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-09-22T20:00:00+09:00",
-  "cacheBust": "1781029200"
+  "publishedAt": "2026-09-23T10:30:00+09:00",
+  "cacheBust": "1781115000"
 }
