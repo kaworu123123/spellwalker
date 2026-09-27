@@ -1,10 +1,10 @@
 {
-  "versionName": "1.94",
-  "versionCode": 95,
+  "versionName": "1.95",
+  "versionCode": 96,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20260927\n・Google Play 公開用 v1.94\n・敵スプライトの白マット透過修正（ドラゴン・スケルトン等）\n・ロビーに必殺技の効果説明、LvUP羽エフェクト\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20260927\n・Google Play 公開用 v1.95\n・プレイヤー名表示の整理（マルチでは自分のみ判別子表示）\n・HUD・ランキング・ショップ等のUI調整\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-09-27T12:30:00+09:00",
-  "cacheBust": "1790472600"
+  "publishedAt": "2026-09-27T20:15:00+09:00",
+  "cacheBust": "1790539941"
 }
