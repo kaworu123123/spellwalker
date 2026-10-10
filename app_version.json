@@ -1,10 +1,10 @@
 {
-  "versionName": "2.05",
-  "versionCode": 106,
+  "versionName": "2.06",
+  "versionCode": 107,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20261010\n・v2.05：ルカ初期武器・精霊調整、UI/リザルト更新、魂片バランス、レイブン説明修正\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20261011\n・v2.06：フレイアのゲーム中表示不具合を修正\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-10-10T23:30:00+09:00",
-  "cacheBust": "1791643200"
+  "publishedAt": "2026-10-11T00:40:00+09:00",
+  "cacheBust": "1791646800"
 }
