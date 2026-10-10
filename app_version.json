@@ -1,10 +1,10 @@
 {
-  "versionName": "1.98",
-  "versionCode": 99,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v1.98/spellwalker.apk",
+  "versionName": "2.05",
+  "versionCode": 106,
+  "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20260929\n・Google Play 公開用 v1.98\n・ボス撃破タイムボーナスを吹き出しで表示\n・コレクションモード6タブ一体（図鑑ボタン統合）\n・中ボス出現・魔界敵割当・必殺演出など調整\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20261010\n・Google Play 公開用 v2.05\n・召喚シルフ：風の玉を斜め4方向に発射、見た目を少し大型化\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-09-29T20:50:00+09:00",
-  "cacheBust": "1790718600"
+  "publishedAt": "2026-10-10T23:30:00+09:00",
+  "cacheBust": "1791642600"
 }
