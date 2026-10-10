@@ -3,8 +3,8 @@
   "versionCode": 106,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20261010\n・Google Play 公開用 v2.05\n・召喚シルフ：風の玉を斜め4方向に発射、見た目を少し大型化\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20261010\n・v2.05：ルカ初期武器・精霊調整、UI/リザルト更新、魂片バランス、レイブン説明修正\nGoogle Play から更新してください。",
   "forceUpdate": false,
   "publishedAt": "2026-10-10T23:30:00+09:00",
-  "cacheBust": "1791642600"
+  "cacheBust": "1791643200"
 }
