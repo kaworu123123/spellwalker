@@ -1,10 +1,10 @@
 {
-  "versionName": "2.08",
-  "versionCode": 109,
+  "versionName": "2.09",
+  "versionCode": 110,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20261011\n・v2.08：ステージSクリアBGM選択・精霊UI緑統一\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20261011\n・v2.09：図鑑追加・召喚スキルアイコン・シルフ強化ほか\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-10-11T10:30:00+09:00",
-  "cacheBust": "1791683400"
+  "publishedAt": "2026-10-11T15:10:00+09:00",
+  "cacheBust": "1791698682"
 }
