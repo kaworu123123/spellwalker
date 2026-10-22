@@ -1,10 +1,10 @@
 {
-  "versionName": "2.09",
-  "versionCode": 110,
-  "downloadUrl": "",
+  "versionName": "2.12",
+  "versionCode": 113,
+  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v2.12/spellwalker.apk",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20261011\n・v2.09：図鑑追加・召喚スキルアイコン・シルフ強化ほか\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20261022\n・v2.12：UI文字の見やすさ改善、任務画面・魂片表示の修正、レベルアップでスキル装備武器の表示ほか\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-10-11T15:10:00+09:00",
-  "cacheBust": "1791698682"
+  "publishedAt": "2026-10-22T18:00:00+09:00",
+  "cacheBust": "1792659600"
 }
