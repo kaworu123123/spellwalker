@@ -1,10 +1,10 @@
 {
-  "versionName": "2.14",
-  "versionCode": 115,
-  "downloadUrl": "https://github.com/kaworu123123/spellwalker/releases/download/v2.14/spellwalker.apk",
+  "versionName": "2.15",
+  "versionCode": 116,
+  "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20261024\n・v2.14：UI文字・HUD、敵湧き開始、レベルアップ演出、体力回復ドロップ調整、共鳴必殺の属性判定修正ほか\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20261029\n・v2.15：モードセレクトに攻略ヒント表示、キャラidle・リザルト立ち絵調整、協力の部屋一覧安定化ほか\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-10-24T21:05:00+09:00",
-  "cacheBust": "1792842900"
+  "publishedAt": "2026-10-29T22:10:00+09:00",
+  "cacheBust": "1761748200"
 }
