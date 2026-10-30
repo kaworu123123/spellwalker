@@ -1,10 +1,10 @@
 {
-  "versionName": "2.15",
-  "versionCode": 116,
+  "versionName": "2.16",
+  "versionCode": 117,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20261029\n・v2.15：モードセレクトに攻略ヒント表示、キャラidle・リザルト立ち絵調整、協力の部屋一覧安定化ほか\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20261030\n・v2.16：攻略ヒント表示改善、フレイア強化・立ち絵更新、ユフィナidle更新ほか\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-10-29T22:10:00+09:00",
-  "cacheBust": "1761748200"
+  "publishedAt": "2026-10-30T22:05:00+09:00",
+  "cacheBust": "1761835500"
 }
