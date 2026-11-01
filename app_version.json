@@ -1,10 +1,10 @@
 {
-  "versionName": "2.16",
-  "versionCode": 117,
+  "versionName": "2.17",
+  "versionCode": 118,
   "downloadUrl": "",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kwr.spellwalker",
-  "message": "アップデートがあります。\n20261030\n・v2.16：攻略ヒント表示改善、フレイア強化・立ち絵更新、ユフィナidle更新ほか\nGoogle Play から更新してください。",
+  "message": "アップデートがあります。\n20261101\n・v2.17：アイスコメット見やすさ改善、フロスト着弾エフェクト更新、吹雪演出更新ほか\nGoogle Play から更新してください。",
   "forceUpdate": false,
-  "publishedAt": "2026-10-30T22:05:00+09:00",
-  "cacheBust": "1761835500"
+  "publishedAt": "2026-11-01T18:35:00+09:00",
+  "cacheBust": "1761992100"
 }
